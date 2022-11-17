@@ -1,5 +1,5 @@
-||youtube.com
-||googlevideo.com
+||youtube.com^
+||googlevideo.com^
 ||ytimg.com^
 ||youtubei.googleapis.com^
 ||youtube-nocookie.com^
